@@ -40,3 +40,50 @@
 
     </body>
 </html>
+
+
+CSS code on the bottom
+
+body{
+    text-align: center;
+    margin: 0;
+    font-family: fantasy;
+
+}
+
+header{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+.fantasy{
+    font-family: fantasy;
+}
+
+.about{
+    padding: 40px 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+}
+
+.skills{
+    background-color: bisque;
+}
+
+
+footer{
+
+    background-color:blanchedalmond;
+    color: azure;
+    padding: 20px;
+    margin-top: 40px;
+    color: black;
+    font-style: italic;
+    
+    
+
+}

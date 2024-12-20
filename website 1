@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Personal Project</title>
+    
+</head>
+    <body>
+        <header>
+            <h2>I am Andrew</h2>
+            <h2> <div class="fantasy"> I like to play soccer </div></h2>
+            <img src="isagi.jpeg" alt="My ego">
+        </header>
+            
+
+        <div class="about">
+            <h3>Hello everybody</h3>
+            <h3>These are the skills you need to become an egoist</h3>
+            <img src="isagi direct shot vs nagi.gif" style="float: left;" alt: DIRECT SHOOOOTO>
+            <img src="bachira.gif" style = "height: 200px; width: 300px;" alt="dribble balls">
+            <img src="nagi 360.gif" style="float: right; height: 200px; width: 300px;" alt="nagi goated">
+        </div>
+        
+        <div class="skills">
+            <li>dribbling</li>
+            <li>shooting</li>
+            <li>passing</li>
+            
+
+        </div>
+
+        <footer>
+            <a href="https://github.com/yoyostring" target="_blank">Github</a>
+            <a href="https://www.linkedin.com/in/andrew-xiao-99b8272a7/">Linkedin</a>
+
+        </footer>
+
+
+    </body>
+</html>
